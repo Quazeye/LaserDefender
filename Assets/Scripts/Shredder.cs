@@ -9,7 +9,6 @@ public class Shredder : MonoBehaviour
     {
         if (collision.gameObject.tag == "Laser")
         {
-            Debug.Log("Hit " + collision.gameObject.name);
             Destroy(collision.gameObject);
         }
     }
