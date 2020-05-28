@@ -339,7 +339,7 @@ GameObject:
   m_Layer: 0
   m_Name: EnemySpawner
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -372,6 +372,9 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: cfc74d19043934fb1af99a1551821366, type: 2}
   - {fileID: 11400000, guid: acb4180d8876640b9bf3e510d2e31015, type: 2}
+  - {fileID: 11400000, guid: eec4ab940f2ff4ae48b0d1baf8fbfdb9, type: 2}
+  - {fileID: 11400000, guid: facf43c3f86be4be285317e56f8ceb8a, type: 2}
+  startingWave: 0
 --- !u!1001 &205627876744175249
 PrefabInstance:
   m_ObjectHideFlags: 0
